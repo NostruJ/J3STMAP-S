@@ -1,7 +1,7 @@
 from grafo_manager import GrafoManager
 from analisis_algoritmos import AnalisisAlgoritmos
 
-API_KEY = "AIzaSyBYgedUqCjlyF-Dr9-qhiv8SThIFvniLWo" 
+API_KEY = "PON ACA TU KEY PARA PODER USAR EL PROGRAMA" 
 
 # Variable global para almacenar las últimas paradas
 last_waypoints = [] 
